@@ -1,0 +1,12 @@
+Files already downloaded and verified
+Original ACC: 0.8494
+Original ASR: 0.9764
+Round: 0
+ACC: 0.8146
+ASR: 0.1584
+Round: 1
+ACC: 0.8274
+ASR: 0.1602
+Round: 2
+ACC: 0.8208
+ASR: 0.1468
